@@ -1,0 +1,10 @@
+.chores {
+    font-family: fantasy;
+    font-size: 25px;
+    color: red;
+    font-style: italic;
+}
+
+.chores h3 {
+    text-decoration: underline;
+}

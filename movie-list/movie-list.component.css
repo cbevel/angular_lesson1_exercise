@@ -1,0 +1,9 @@
+.movies {
+    color: blue;
+}
+
+.movies h3 {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}

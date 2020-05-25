@@ -1,0 +1,19 @@
+h3 {
+   color: brown;
+   text-decoration: underline;
+}
+
+img {
+height: 30vh;
+width: auto;
+align-items: center;
+}
+
+.photos {
+   text-align: center;
+}
+
+#photo2 {
+   width: 45vh;
+   height: auto;
+}
